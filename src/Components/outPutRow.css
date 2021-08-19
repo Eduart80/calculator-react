@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'digital-7';
+    src: url('../asets/fonts/digital-7.ttf');
+}
+.screen{
+    font-family: 'digital-7';
+    display: block;
+    margin-left: auto;
+    margin-right:auto ;
+    width: 90%;
+    font-size: 3.5rem;
+    height:30px;
+    border: none;
+    background-color:rgb(190, 247, 255);
+    color: black;
+    text-align: right;
+    padding: 10px 10px 10px 1px;
+}
