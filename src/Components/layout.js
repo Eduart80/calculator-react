@@ -57,7 +57,7 @@ const Layout = (props) => {
         <input
           type="button"
           className="button clear"
-          value={"DEL"}
+          value={"DELe"}
           onClick={handleClick}
         ></input>
         <input
